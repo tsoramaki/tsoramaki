@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/X21bGt2/github-Header.png)](https://github.com/tsoramaki)
    
-   **Join my Discord: https://discord.gg/NwsshvFHxV**
+   **Join the Distracting Moose Discord server: https://discord.gg/NwsshvFHxV**
    
 <h3 align="left">Social Links</h3>
 <p align="left">
@@ -10,5 +10,8 @@
 <a href="https://www.youtube.com/channel/UCT34d5sFl1lO2oD53qeRVtg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tsoramaki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tsoramaki)](https://git.io/streak-stats)
+
 
 *Github is where you can find my public web templates and/or open source projects.* 
