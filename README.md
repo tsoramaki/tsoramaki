@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/X21bGt2/github-Header.png)](https://github.com/tsoramaki)
+[![MasterHead](https://i.ibb.co/6PCt8T5/github-Header.png)](https://github.com/tsoramaki)
    
    **Join the Distracting Moose Discord server: https://discord.gg/NwsshvFHxV**
    
